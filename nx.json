@@ -7,5 +7,12 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "ionic-angular-app-e2e": {
+      "tags": []
+    },
+    "ionic-angular-app": {
+      "tags": []
+    }
+  }
 }
