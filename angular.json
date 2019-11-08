@@ -60,7 +60,7 @@
                 "input": "node_modules/@ionic/angular/css/flex-utils.css"
               },
               {
-                "input": "apps/ionic-angular-app/src/theme/variables.css"
+                "input": "apps/ionic-angular-app/src/theme/variables.scss"
               }
             ],
             "scripts": []
