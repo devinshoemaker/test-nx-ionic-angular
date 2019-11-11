@@ -3,6 +3,6 @@
   "appName": "Ionic Angular App",
   "bundledWebRuntime": false,
   "npmClient": "npm",
-  "webDir": "www",
+  "webDir": "dist/apps/ionic-angular-app",
   "cordova": {}
 }
