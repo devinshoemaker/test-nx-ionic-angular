@@ -1,0 +1,8 @@
+{
+  "appId": "com.devinshoemaker.ionicangularapp",
+  "appName": "Ionic Angular App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
